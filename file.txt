@@ -6,8 +6,4 @@ Bạn đã ngủ chưa
 
 Goodbye
 
-<<<<<<< HEAD
-=======
-Hello World!
-This is a change by Developer B.
->>>>>>> 6bb7348 (LỖI BRANCH)
+
